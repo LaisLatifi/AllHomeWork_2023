@@ -1,4 +1,4 @@
-package Class23HW;
+package Class23HwGroupProject02;
 
 import java.util.Scanner;
 

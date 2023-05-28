@@ -1,4 +1,4 @@
-package Class23HW;
+package Class23HwGroupProject02;
 
 public class T06Shapes {
 

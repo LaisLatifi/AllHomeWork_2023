@@ -1,4 +1,4 @@
-package Class23HW;
+package Class23HwGroupProject02;
 
 public class StudentsMarks {
     //We have to calculate the average of marks obtained in three subjects

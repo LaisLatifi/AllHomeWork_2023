@@ -1,4 +1,4 @@
-package Class23HW;
+package Class23HwGroupProject02;
 
     //Task#03
     // Count the Number of Words in a String: Write a function to count the
